@@ -1,0 +1,34 @@
+---
+title: Almost Done
+author: Jason Barnes
+date: '2020-07-02'
+slug: almost-done
+categories:
+  - R
+  - Studio
+tags:
+  - data
+  - visualization
+  - plot
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-07-02T12:03:10-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+## Header 1
+
+This is some text
+
+## Header 2
+
+```{r}
+my_data <- mtcars
+plot(mtcars)
+```
